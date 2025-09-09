@@ -1,5 +1,7 @@
 Digital Balance Self-Assessment Tool
 
+Live Demo
+
 <img width="1920" height="887" alt="image" src="https://github.com/user-attachments/assets/ac1c453f-aaca-4ce8-8315-05dd96b3c8e8" />
 
 A bilingual (English/Chinese), single-file web application designed to help users assess their digital wellness through an interactive quiz. This tool translates academic research on the effects of social media and AI into a practical, user-centric experience with personalized feedback.
