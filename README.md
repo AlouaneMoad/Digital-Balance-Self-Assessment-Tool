@@ -2,7 +2,7 @@ Digital Balance Self-Assessment Tool
 
 Live Demo https://focuscheck.ct.ws/
 
-![ezgif-2fb9d47d6a0ebd](https://github.com/user-attachments/assets/93c97de0-cfe0-4e7e-8a87-34f289e44443)
+![ezgif-2fb9d47d6a0ebd](https://github.com/user-attachments/assets/5ca44c56-1911-48b5-9ca6-39351f7132fb)
 
 A bilingual (English/Chinese), single-file web application designed to help users assess their digital wellness through an interactive quiz. This tool translates academic research on the effects of social media and AI into a practical, user-centric experience with personalized feedback.
 
